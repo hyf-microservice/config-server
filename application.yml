@@ -1,2 +1,3 @@
-spring:
-  textName: barlow
+info:
+  description: Spring Cloud Config Test.
+  url: https://github.com/hyf-microservice/config-server.git
